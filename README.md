@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Igoorsous
+- 👋 Oi, eu sou Igor! tenho 21 anos
 
-<!---
-Igoorsous/Igoorsous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- Igoorsous/Igoorsous é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub. Você pode clicar no link Visualizar para dar uma olhada nas suas alterações. --->
